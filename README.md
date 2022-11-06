@@ -8,3 +8,6 @@ The forest plot image was published (https://github.com/RoseTheDatagirl/Meta-Ana
 
 Publication bias was vizualized using funnel plot, the image was published (https://github.com/RoseTheDatagirl/Meta-Analysis-With-R/blob/main/funnel%20plot.png).
 
+![Uploading forest plot.png…]()
+
+
